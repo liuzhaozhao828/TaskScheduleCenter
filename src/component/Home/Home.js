@@ -5,6 +5,7 @@ import React from 'react';
 import ChartCard from '../common/ChartCard'
 import Field from '../common/Field'
 import {Row, Col, Tooltip, Icon} from 'antd'
+import  ReactEcharts from 'echarts-for-react'
 import './home.less'
 
 
